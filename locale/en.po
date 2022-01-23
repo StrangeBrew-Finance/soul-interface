@@ -332,9 +332,6 @@ msgstr "Confirm {0}"
 msgid "Connect Wallet"
 msgstr "Connect Wallet"
 
-msgid "Connect to a wallet"
-msgstr "Connect to a wallet"
-
 msgid "Considerations"
 msgstr "Considerations"
 
@@ -401,8 +398,8 @@ msgstr "Deposited"
 msgid "Deposited Value"
 msgstr "Deposited Value"
 
-msgid "Disable multihops"
-msgstr "Disable multihops"
+msgid "Disable Multihops"
+msgstr "Disable Multihops"
 
 msgid "Disconnect"
 msgstr "Disconnect"
@@ -422,9 +419,6 @@ msgstr "Earn"
 msgid "Either return to the {link}, or change to an available network."
 msgstr "Either return to the {link}, or change to an available network."
 
-msgid "Enable Expert Mode"
-msgstr "Enable Expert Mode"
-
 msgid "Enchant"
 msgstr "Enchant"
 
@@ -437,14 +431,11 @@ msgstr "Enter"
 msgid "Enter Amount"
 msgstr "Enter Amount"
 
-msgid "Enter a recipient"
-msgstr "Enter a recipient"
+msgid "Enter Recipient"
+msgstr "Enter Recipient"
 
 msgid "Enter a valid slippage percentage"
 msgstr "Enter a valid slippage percentage"
-
-msgid "Enter an amount"
-msgstr "Enter an amount"
 
 msgid "Error"
 msgstr "Error"
@@ -637,9 +628,6 @@ msgstr "Input is estimated. You will sell at most"
 msgid "Insufficient Balance"
 msgstr "Insufficient Balance"
 
-msgid "Insufficient SLP balance"
-msgstr "Insufficient SLP balance"
-
 msgid "Insufficient liquidity for this trade"
 msgstr "Insufficient liquidity for this trade"
 
@@ -649,11 +637,11 @@ msgstr "Insufficient {0} balance"
 msgid "Interface Settings"
 msgstr "Interface Settings"
 
+msgid "Invalid Recipient"
+msgstr "Invalid Recipient"
+
 msgid "Invalid pair"
 msgstr "Invalid pair"
-
-msgid "Invalid recipient"
-msgstr "Invalid recipient"
 
 msgid "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
 msgstr "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
@@ -679,8 +667,8 @@ msgstr "LTV"
 msgid "LUXOR"
 msgstr "LUXOR"
 
-msgid "Learn more about wallets"
-msgstr "Learn more about wallets"
+msgid "Learn About Wallets"
+msgstr "Learn About Wallets"
 
 msgid "Lend"
 msgstr "Lend"
@@ -808,8 +796,8 @@ msgstr "N"
 msgid "Never"
 msgstr "Never"
 
-msgid "New to Ethereum?"
-msgstr "New to Ethereum?"
+msgid "New to Fantom?"
+msgstr "New to Fantom?"
 
 msgid "No Liquidity found"
 msgstr "No Liquidity found"
@@ -835,8 +823,8 @@ msgstr "Non-hardware Wallet"
 msgid "None"
 msgstr "None"
 
-msgid "Only use this mode if you know what you are doing."
-msgstr "Only use this mode if you know what you are doing."
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
+msgstr "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
 
 msgid "Oops!"
 msgstr "Oops!"
@@ -849,12 +837,6 @@ msgstr "Open Main Menu"
 
 msgid "Open Orders"
 msgstr "Open Orders"
-
-msgid "OpenMEV Gas Refunder"
-msgstr "OpenMEV Gas Refunder"
-
-msgid "OpenMEV refunds up to 95% of transaction costs in 35 blocks."
-msgstr "OpenMEV refunds up to 95% of transaction costs in 35 blocks."
 
 msgid "Oracle"
 msgstr "Oracle"
@@ -1101,6 +1083,12 @@ msgstr "Select Asset"
 msgid "Select Collateral"
 msgstr "Select Collateral"
 
+msgid "Select Order Expiration"
+msgstr "Select Order Expiration"
+
+msgid "Select Rate"
+msgstr "Select Rate"
+
 msgid "Select Token"
 msgstr "Select Token"
 
@@ -1110,20 +1098,11 @@ msgstr "Select a Token"
 msgid "Select a network"
 msgstr "Select a network"
 
-msgid "Select a rate"
-msgstr "Select a rate"
-
-msgid "Select a token"
-msgstr "Select a token"
-
 msgid "Select a token to find your liquidity"
 msgstr "Select a token to find your liquidity"
 
 msgid "Select a wallet"
 msgstr "Select a wallet"
-
-msgid "Select an order expiration"
-msgstr "Select an order expiration"
 
 msgid "Send to:"
 msgstr "Send to:"
@@ -1300,8 +1279,8 @@ msgstr "This transaction will not succeed due to price movement. Try increasing 
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
 msgstr "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
 
-msgid "Toggle expert mode"
-msgstr "Toggle expert mode"
+msgid "Toggle Expert Mode"
+msgstr "Toggle Expert Mode"
 
 msgid "Token"
 msgstr "Token"
@@ -1348,6 +1327,9 @@ msgstr "Tribute"
 
 msgid "Try enabling multi-hop trades"
 msgstr "Try enabling multi-hop trades"
+
+msgid "Turn On Expert Mode"
+msgstr "Turn On Expert Mode"
 
 msgid "Unknown Source"
 msgstr "Unknown Source"

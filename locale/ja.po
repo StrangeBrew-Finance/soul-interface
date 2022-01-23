@@ -327,9 +327,6 @@ msgstr ""
 msgid "Connect Wallet"
 msgstr ""
 
-msgid "Connect to a wallet"
-msgstr ""
-
 msgid "Considerations"
 msgstr ""
 
@@ -396,7 +393,7 @@ msgstr ""
 msgid "Deposited Value"
 msgstr ""
 
-msgid "Disable multihops"
+msgid "Disable Multihops"
 msgstr ""
 
 msgid "Disconnect"
@@ -417,9 +414,6 @@ msgstr ""
 msgid "Either return to the {link}, or change to an available network."
 msgstr ""
 
-msgid "Enable Expert Mode"
-msgstr ""
-
 msgid "Enchant"
 msgstr ""
 
@@ -432,13 +426,10 @@ msgstr ""
 msgid "Enter Amount"
 msgstr ""
 
-msgid "Enter a recipient"
+msgid "Enter Recipient"
 msgstr ""
 
 msgid "Enter a valid slippage percentage"
-msgstr ""
-
-msgid "Enter an amount"
 msgstr ""
 
 msgid "Error"
@@ -628,9 +619,6 @@ msgstr ""
 msgid "Insufficient Balance"
 msgstr ""
 
-msgid "Insufficient SLP balance"
-msgstr ""
-
 msgid "Insufficient liquidity for this trade"
 msgstr ""
 
@@ -640,10 +628,10 @@ msgstr ""
 msgid "Interface Settings"
 msgstr ""
 
-msgid "Invalid pair"
+msgid "Invalid Recipient"
 msgstr ""
 
-msgid "Invalid recipient"
+msgid "Invalid pair"
 msgstr ""
 
 msgid "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
@@ -670,7 +658,7 @@ msgstr ""
 msgid "LUXOR"
 msgstr ""
 
-msgid "Learn more about wallets"
+msgid "Learn About Wallets"
 msgstr ""
 
 msgid "Lend"
@@ -799,7 +787,7 @@ msgstr ""
 msgid "Never"
 msgstr ""
 
-msgid "New to Ethereum?"
+msgid "New to Fantom?"
 msgstr ""
 
 msgid "No Liquidity found"
@@ -826,7 +814,7 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-msgid "Only use this mode if you know what you are doing."
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING."
 msgstr ""
 
 msgid "Oops!"
@@ -839,12 +827,6 @@ msgid "Open Main Menu"
 msgstr ""
 
 msgid "Open Orders"
-msgstr ""
-
-msgid "OpenMEV Gas Refunder"
-msgstr ""
-
-msgid "OpenMEV refunds up to 95% of transaction costs in 35 blocks."
 msgstr ""
 
 msgid "Oracle"
@@ -1088,6 +1070,12 @@ msgstr ""
 msgid "Select Collateral"
 msgstr ""
 
+msgid "Select Order Expiration"
+msgstr ""
+
+msgid "Select Rate"
+msgstr ""
+
 msgid "Select Token"
 msgstr ""
 
@@ -1097,19 +1085,10 @@ msgstr ""
 msgid "Select a network"
 msgstr ""
 
-msgid "Select a rate"
-msgstr ""
-
-msgid "Select a token"
-msgstr ""
-
 msgid "Select a token to find your liquidity"
 msgstr ""
 
 msgid "Select a wallet"
-msgstr ""
-
-msgid "Select an order expiration"
 msgstr ""
 
 msgid "Send to:"
@@ -1285,7 +1264,7 @@ msgstr ""
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
 msgstr ""
 
-msgid "Toggle expert mode"
+msgid "Toggle Expert Mode"
 msgstr ""
 
 msgid "Token"
@@ -1330,6 +1309,9 @@ msgid "Tribute"
 msgstr ""
 
 msgid "Try enabling multi-hop trades"
+msgstr ""
+
+msgid "Turn On Expert Mode"
 msgstr ""
 
 msgid "Unknown Source"
